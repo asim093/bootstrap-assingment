@@ -1,0 +1,68 @@
+*{
+ 
+}
+
+
+nav{
+    margin: 0% !important;
+    padding: 0% !important;
+}
+.container-fluid img {
+height: 80px !important;
+width: 100px !important;
+}
+
+ul li{
+    padding: 0px 30px !important;
+    transition: 0.3s ;
+}
+
+ul li:hover{
+    text-decoration: underline;
+}
+
+.carousel{
+    height: 40rem !important;
+    margin: 0 0px 30px 0p;
+   
+
+}
+
+.carousel img{
+    height: 40rem;
+}
+
+.card-body{
+    text-align: center !important;
+}
+
+.card-body a{
+    width: 100px;
+}
+
+.container img{
+    height: 200px !important;
+}
+
+.container {
+    padding-left: 60px; 
+    padding-top: 30px;
+}
+
+.row{
+    padding-top: 30px;
+}
+
+@media screen and (max-width: 768px) {
+   .row{
+    padding: 0 !important;
+   align-items: center;
+   }
+
+   .carousel{
+    width: 100%;
+   }
+  }
+  
+
+ 
